@@ -2,6 +2,8 @@
 
 Simple weather app made with electron and 💖
 
+![](https://github.com/ekinakkaya/weather-app/blob/main/screenshot.png?raw=true)
+
 
 
 ## installation (windows)

@@ -1,6 +1,6 @@
 {
   "name": "weather-app-electron",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha2",
   "description": "Weather app powered by the almighty electron.",
   "main": "main.js",
   "scripts": {
